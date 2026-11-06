@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Colores que genera la plantilla de Android Studio -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores del examen -->
+    <color name="morado_upp">#FF5B21B6</color>
+    <color name="morado_claro">#FF8B5CF6</color>
+    <color name="fondo_claro">#FFF6F2FB</color>
+    <color name="texto_oscuro">#FF1A1A2E</color>
+    <color name="texto_gris">#FF5A5A6E</color>
+
+</resources>
